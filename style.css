@@ -7,11 +7,11 @@
     display: flex;
     flex-wrap: wrap;
     
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 550px;
     margin: 5%;
-    
-    border: 30px solid red;
+    border-radius:8px;
+    border: 15px solid black;
     
 }.box{
     display: flex;
